@@ -49,6 +49,7 @@
 
 
 ### 📫 Let's Connect
+Discord : dev_obito
 
 <p align="left">
 <!-- add your real links below -->
